@@ -1,0 +1,91 @@
+@charset "utf-8";
+.navbar.navbar-expand-lg.navbar-light {
+	background-color: rgba(56,7,3,1.00);
+
+
+}
+.navbar-nav.ml-auto .nav-item .nav-link {
+	color: rgba(255,255,255,1.00);
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	border-width: thin;
+	border-style: outset;
+}
+.navbar-nav.ml-auto .nav-item .nav-link:hover  {
+	color: rgba(255,255,255,1.00);
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	border-width: thin;
+	border-style: inset;
+}
+.mb-5 .navbar.navbar-expand-lg.navbar-light .navbar-toggler {
+	background-color: rgba(255,255,255,1.00);
+	width: auto;
+	height: auto;
+}
+.card.col-md-4.col-xl-12 .card-body .card-title.text-left {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: xx-large;
+}
+section .text-capitalize.text-center strong {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.card.col-md-4.col-xl-12 a .card-img-top.img-fluid {
+}
+.card.col-md-4.col-xl-12 a .card-img-top.img-fluid:hover  {
+	border-style: outset;
+	border-width: thick;
+}
+.navbar.navbar-expand-lg.navbar-light.mb-1.fixed-top .navbar-brand.text-white {
+	border-width: thin;
+	border-style: outset;
+	color: rgba(255,255,255,1.00);
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.navbar.navbar-expand-lg.navbar-light.mb-1.fixed-top .navbar-brand.text-white:hover  {
+	color: rgba(255,255,255,1.00);
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	border-width: thin;
+	border-style: inset;
+}
+.navbar.navbar-expand-lg.navbar-light.mb-1.fixed-top .navbar-toggler .navbar-toggler-icon {
+	background-color: rgba(255,255,255,1.00);
+	border: medium solid rgba(0,0,0,1.00);
+
+
+}
+.container-fluid.col-10 .row.mb-sm-auto.mt-sm-auto.ml-sm-auto.mr-sm-auto.col-sm-11 {
+	border-width: medium;
+	border-style: solid;
+}
+.container-fluid.col-11 .container hr {
+	border: thick solid rgba(0,0,0,1.00);
+}
+.container-fluid.col-11 .ml-sm-auto.mr-sm-auto.mt-sm-auto.mb-sm-auto.col-sm-10 .text-capitalize {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-weight: bolder;
+	font-size: 48px;
+}
+.container-fluid.col-11 .ml-sm-auto.mr-sm-auto.mt-sm-auto.mb-sm-auto.col-sm-10 .mt-4 {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.row .col-xl-4 h4 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.row .col-xl-4 .mt-3 {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: small;
+}
+.row .col-xl-3 h4 {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-weight: bold;
+	border-top: thin solid rgba(134,134,134,1.00);
+}
+.container-fluid.col-11 .ml-sm-auto.mr-sm-auto.col-sm-10 .text-capitalize {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-weight: bolder;
+	font-size: 48px;
+}
+.card.col-md-4.col-xl-12.mb-3 .card-body.mb-1 .card-text.mt-3 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.m-au {
+}
